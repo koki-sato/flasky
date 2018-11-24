@@ -1,6 +1,6 @@
 # flasky
 
-Sample problem for m1z0r3 CTF
+Sample problem for m1z0r3 Advent Calendar 2018
 
 ## Usage
 
@@ -8,3 +8,5 @@ Sample problem for m1z0r3 CTF
 $ cp .env.sample .env
 $ docker-compose up
 ```
+
+Access http://localhost:5000
